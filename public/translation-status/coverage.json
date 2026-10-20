@@ -1,0 +1,243 @@
+{
+  "generatedAt": "2026-10-20T05:21:52.287Z",
+  "languages": {
+    "es": {
+      "total": 1235,
+      "upToDate": 6,
+      "outdated": 364,
+      "missing": 865,
+      "stub": 0,
+      "percent": 0
+    },
+    "hi": {
+      "total": 1235,
+      "upToDate": 8,
+      "outdated": 367,
+      "missing": 860,
+      "stub": 0,
+      "percent": 1
+    },
+    "ko": {
+      "total": 1235,
+      "upToDate": 4,
+      "outdated": 361,
+      "missing": 870,
+      "stub": 0,
+      "percent": 0
+    },
+    "zh-Hans": {
+      "total": 1235,
+      "upToDate": 14,
+      "outdated": 366,
+      "missing": 855,
+      "stub": 0,
+      "percent": 1
+    }
+  },
+  "contentTypes": {
+    "examples": {
+      "zh-Hans": {
+        "total": 61,
+        "upToDate": 3,
+        "outdated": 58,
+        "missing": 0,
+        "stub": 0,
+        "percent": 5
+      },
+      "es": {
+        "total": 61,
+        "upToDate": 3,
+        "outdated": 58,
+        "missing": 0,
+        "stub": 0,
+        "percent": 5
+      },
+      "hi": {
+        "total": 61,
+        "upToDate": 2,
+        "outdated": 59,
+        "missing": 0,
+        "stub": 0,
+        "percent": 3
+      },
+      "ko": {
+        "total": 61,
+        "upToDate": 2,
+        "outdated": 59,
+        "missing": 0,
+        "stub": 0,
+        "percent": 3
+      }
+    },
+    "tutorials": {
+      "zh-Hans": {
+        "total": 30,
+        "upToDate": 5,
+        "outdated": 0,
+        "missing": 25,
+        "stub": 0,
+        "percent": 17
+      },
+      "hi": {
+        "total": 30,
+        "upToDate": 3,
+        "outdated": 1,
+        "missing": 26,
+        "stub": 0,
+        "percent": 10
+      },
+      "es": {
+        "total": 30,
+        "upToDate": 0,
+        "outdated": 0,
+        "missing": 30,
+        "stub": 0,
+        "percent": 0
+      },
+      "ko": {
+        "total": 30,
+        "upToDate": 0,
+        "outdated": 0,
+        "missing": 30,
+        "stub": 0,
+        "percent": 0
+      }
+    },
+    "text-detail": {
+      "es": {
+        "total": 8,
+        "upToDate": 2,
+        "outdated": 0,
+        "missing": 6,
+        "stub": 0,
+        "percent": 25
+      },
+      "hi": {
+        "total": 8,
+        "upToDate": 3,
+        "outdated": 1,
+        "missing": 4,
+        "stub": 0,
+        "percent": 38
+      },
+      "ko": {
+        "total": 8,
+        "upToDate": 2,
+        "outdated": 1,
+        "missing": 5,
+        "stub": 0,
+        "percent": 25
+      },
+      "zh-Hans": {
+        "total": 8,
+        "upToDate": 6,
+        "outdated": 2,
+        "missing": 0,
+        "stub": 0,
+        "percent": 75
+      }
+    },
+    "libraries": {
+      "es": {
+        "total": 100,
+        "upToDate": 1,
+        "outdated": 0,
+        "missing": 99,
+        "stub": 0,
+        "percent": 1
+      },
+      "hi": {
+        "total": 100,
+        "upToDate": 0,
+        "outdated": 0,
+        "missing": 100,
+        "stub": 0,
+        "percent": 0
+      },
+      "ko": {
+        "total": 100,
+        "upToDate": 0,
+        "outdated": 0,
+        "missing": 100,
+        "stub": 0,
+        "percent": 0
+      },
+      "zh-Hans": {
+        "total": 100,
+        "upToDate": 0,
+        "outdated": 0,
+        "missing": 100,
+        "stub": 0,
+        "percent": 0
+      }
+    },
+    "reference": {
+      "es": {
+        "total": 1031,
+        "upToDate": 0,
+        "outdated": 306,
+        "missing": 725,
+        "stub": 0,
+        "percent": 0
+      },
+      "hi": {
+        "total": 1031,
+        "upToDate": 0,
+        "outdated": 306,
+        "missing": 725,
+        "stub": 0,
+        "percent": 0
+      },
+      "ko": {
+        "total": 1031,
+        "upToDate": 0,
+        "outdated": 301,
+        "missing": 730,
+        "stub": 0,
+        "percent": 0
+      },
+      "zh-Hans": {
+        "total": 1031,
+        "upToDate": 0,
+        "outdated": 306,
+        "missing": 725,
+        "stub": 0,
+        "percent": 0
+      }
+    },
+    "events": {
+      "es": {
+        "total": 5,
+        "upToDate": 0,
+        "outdated": 0,
+        "missing": 5,
+        "stub": 0,
+        "percent": 0
+      },
+      "hi": {
+        "total": 5,
+        "upToDate": 0,
+        "outdated": 0,
+        "missing": 5,
+        "stub": 0,
+        "percent": 0
+      },
+      "ko": {
+        "total": 5,
+        "upToDate": 0,
+        "outdated": 0,
+        "missing": 5,
+        "stub": 0,
+        "percent": 0
+      },
+      "zh-Hans": {
+        "total": 5,
+        "upToDate": 0,
+        "outdated": 0,
+        "missing": 5,
+        "stub": 0,
+        "percent": 0
+      }
+    }
+  }
+}
