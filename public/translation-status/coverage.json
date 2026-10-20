@@ -1,240 +1,182 @@
 {
-  "generatedAt": "2026-10-20T05:21:52.287Z",
+  "generatedAt": "2026-10-20T05:28:56.250Z",
   "languages": {
     "es": {
-      "total": 1235,
-      "upToDate": 6,
-      "outdated": 364,
-      "missing": 865,
+      "total": 204,
+      "present": 64,
+      "missing": 140,
       "stub": 0,
-      "percent": 0
+      "percent": 31
     },
     "hi": {
-      "total": 1235,
-      "upToDate": 8,
-      "outdated": 367,
-      "missing": 860,
+      "total": 204,
+      "present": 69,
+      "missing": 135,
       "stub": 0,
-      "percent": 1
+      "percent": 34
     },
     "ko": {
-      "total": 1235,
-      "upToDate": 4,
-      "outdated": 361,
-      "missing": 870,
+      "total": 204,
+      "present": 64,
+      "missing": 140,
       "stub": 0,
-      "percent": 0
+      "percent": 31
     },
     "zh-Hans": {
-      "total": 1235,
-      "upToDate": 14,
-      "outdated": 366,
-      "missing": 855,
+      "total": 204,
+      "present": 74,
+      "missing": 130,
       "stub": 0,
-      "percent": 1
+      "percent": 36
     }
   },
   "contentTypes": {
     "examples": {
-      "zh-Hans": {
-        "total": 61,
-        "upToDate": 3,
-        "outdated": 58,
-        "missing": 0,
-        "stub": 0,
-        "percent": 5
-      },
       "es": {
         "total": 61,
-        "upToDate": 3,
-        "outdated": 58,
+        "present": 61,
         "missing": 0,
         "stub": 0,
-        "percent": 5
+        "percent": 100
       },
       "hi": {
         "total": 61,
-        "upToDate": 2,
-        "outdated": 59,
+        "present": 61,
         "missing": 0,
         "stub": 0,
-        "percent": 3
+        "percent": 100
       },
       "ko": {
         "total": 61,
-        "upToDate": 2,
-        "outdated": 59,
+        "present": 61,
         "missing": 0,
         "stub": 0,
-        "percent": 3
+        "percent": 100
+      },
+      "zh-Hans": {
+        "total": 61,
+        "present": 61,
+        "missing": 0,
+        "stub": 0,
+        "percent": 100
       }
     },
     "tutorials": {
-      "zh-Hans": {
+      "es": {
         "total": 30,
-        "upToDate": 5,
-        "outdated": 0,
-        "missing": 25,
+        "present": 0,
+        "missing": 30,
         "stub": 0,
-        "percent": 17
+        "percent": 0
       },
       "hi": {
         "total": 30,
-        "upToDate": 3,
-        "outdated": 1,
+        "present": 4,
         "missing": 26,
         "stub": 0,
-        "percent": 10
-      },
-      "es": {
-        "total": 30,
-        "upToDate": 0,
-        "outdated": 0,
-        "missing": 30,
-        "stub": 0,
-        "percent": 0
+        "percent": 13
       },
       "ko": {
         "total": 30,
-        "upToDate": 0,
-        "outdated": 0,
+        "present": 0,
         "missing": 30,
         "stub": 0,
         "percent": 0
+      },
+      "zh-Hans": {
+        "total": 30,
+        "present": 5,
+        "missing": 25,
+        "stub": 0,
+        "percent": 17
       }
     },
     "text-detail": {
       "es": {
         "total": 8,
-        "upToDate": 2,
-        "outdated": 0,
+        "present": 2,
         "missing": 6,
         "stub": 0,
         "percent": 25
       },
       "hi": {
         "total": 8,
-        "upToDate": 3,
-        "outdated": 1,
+        "present": 4,
         "missing": 4,
         "stub": 0,
-        "percent": 38
+        "percent": 50
       },
       "ko": {
         "total": 8,
-        "upToDate": 2,
-        "outdated": 1,
+        "present": 3,
         "missing": 5,
         "stub": 0,
-        "percent": 25
+        "percent": 38
       },
       "zh-Hans": {
         "total": 8,
-        "upToDate": 6,
-        "outdated": 2,
+        "present": 8,
         "missing": 0,
         "stub": 0,
-        "percent": 75
+        "percent": 100
+      }
+    },
+    "events": {
+      "es": {
+        "total": 5,
+        "present": 0,
+        "missing": 5,
+        "stub": 0,
+        "percent": 0
+      },
+      "hi": {
+        "total": 5,
+        "present": 0,
+        "missing": 5,
+        "stub": 0,
+        "percent": 0
+      },
+      "ko": {
+        "total": 5,
+        "present": 0,
+        "missing": 5,
+        "stub": 0,
+        "percent": 0
+      },
+      "zh-Hans": {
+        "total": 5,
+        "present": 0,
+        "missing": 5,
+        "stub": 0,
+        "percent": 0
       }
     },
     "libraries": {
       "es": {
         "total": 100,
-        "upToDate": 1,
-        "outdated": 0,
+        "present": 1,
         "missing": 99,
         "stub": 0,
         "percent": 1
       },
       "hi": {
         "total": 100,
-        "upToDate": 0,
-        "outdated": 0,
+        "present": 0,
         "missing": 100,
         "stub": 0,
         "percent": 0
       },
       "ko": {
         "total": 100,
-        "upToDate": 0,
-        "outdated": 0,
+        "present": 0,
         "missing": 100,
         "stub": 0,
         "percent": 0
       },
       "zh-Hans": {
         "total": 100,
-        "upToDate": 0,
-        "outdated": 0,
+        "present": 0,
         "missing": 100,
-        "stub": 0,
-        "percent": 0
-      }
-    },
-    "reference": {
-      "es": {
-        "total": 1031,
-        "upToDate": 0,
-        "outdated": 306,
-        "missing": 725,
-        "stub": 0,
-        "percent": 0
-      },
-      "hi": {
-        "total": 1031,
-        "upToDate": 0,
-        "outdated": 306,
-        "missing": 725,
-        "stub": 0,
-        "percent": 0
-      },
-      "ko": {
-        "total": 1031,
-        "upToDate": 0,
-        "outdated": 301,
-        "missing": 730,
-        "stub": 0,
-        "percent": 0
-      },
-      "zh-Hans": {
-        "total": 1031,
-        "upToDate": 0,
-        "outdated": 306,
-        "missing": 725,
-        "stub": 0,
-        "percent": 0
-      }
-    },
-    "events": {
-      "es": {
-        "total": 5,
-        "upToDate": 0,
-        "outdated": 0,
-        "missing": 5,
-        "stub": 0,
-        "percent": 0
-      },
-      "hi": {
-        "total": 5,
-        "upToDate": 0,
-        "outdated": 0,
-        "missing": 5,
-        "stub": 0,
-        "percent": 0
-      },
-      "ko": {
-        "total": 5,
-        "upToDate": 0,
-        "outdated": 0,
-        "missing": 5,
-        "stub": 0,
-        "percent": 0
-      },
-      "zh-Hans": {
-        "total": 5,
-        "upToDate": 0,
-        "outdated": 0,
-        "missing": 5,
         "stub": 0,
         "percent": 0
       }
